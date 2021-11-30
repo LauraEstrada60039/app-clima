@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 1.2rem;
+  color: purple;
+}
+
+body {
+  background-color: rgb(191, 243, 247);
+}
+
+.App {
+  text-align: center;
+}
+
+.container-info {
+  background-color: rgb(251, 255, 196);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.Container-Weather-App {
+  margin: 100px 100px;
+  /* background-color: rgb(191, 243, 247); */
+  padding: 20px;
+  border-radius: 15px;
+}
+
+ul {
+  list-style: none;
+}
+
+button {
+  margin: 10px;
+  padding: 5px;
+  border-radius: solid 1px purple;
+  background-color: purple;
+  border-radius: 5px;
+  color: white;
+}
+
